@@ -26,7 +26,7 @@ import java.net.URLEncoder;
 import java.util.ArrayList;
 
 /**
- * Created by sam_chordas on 9/30/15.
+ * Created by ps11 on 9/30/15.
  * The GCMTask service is primarily for periodic tasks. However, OnRunTask can be called directly
  * and is used for the initialization and adding task as well.
  */

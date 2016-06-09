@@ -7,7 +7,7 @@ import net.simonvt.schematic.annotation.InexactContentUri;
 import net.simonvt.schematic.annotation.TableEndpoint;
 
 /**
- * Created by sam_chordas on 10/5/15.
+ * Created by ps11 on 10/5/15.
  */
 @ContentProvider(authority = QuoteProvider.AUTHORITY, database = QuoteDatabase.class)
 public class QuoteProvider {
