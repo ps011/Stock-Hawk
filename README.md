@@ -1,10 +1,8 @@
-# BuildItBigger
-This is the Stock Hawk(P3) project under Udacity Android Nanodegree Program
+# Stock Hawk
+Udacity - Android Developer Nanodegree - Projects 3: Stock Hawk
 
-Getting Started
----------------
-This sample uses the Gradle build system.  To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+Stock Hawk project gives an opportunity to diagnose problems and practice improving apps. These skills are vital to building apps users will love. Diagnosing issues with existing apps is key to working on large apps or continuing projects in Android. Being aware of the common pitfalls in app design frees a developer to produce novel app experiences without making the same mistakes over and over.
+
 
 
 
@@ -32,3 +30,22 @@ This sample uses the Gradle build system.  To build this project, use the
 ### Required Behavior
 
 * App conforms to common standards found in the Android Nanodegree General Project Guidelines
+
+
+![screen](../master/art/screenshots.gif)
+
+
+## Libraries
+
+* [OkHttp](https://github.com/square/okhttp)
+* [Schematic](https://github.com/SimonVT/schematic)
+* [FloatingActionButton](https://github.com/makovkastar/FloatingActionButton)
+* [MaterialLoadingProgressBar](https://github.com/lsjwzh/MaterialLoadingProgressBar)
+* [EazeGraph](https://github.com/blackfizz/EazeGraph)
+
+## Android Developer Nanodegree
+[![udacity][1]][2]
+
+[1]: ../master/art/nanodegree-logo.png
+[2]: https://www.udacity.com/course/android-developer-nanodegree--nd801
+
